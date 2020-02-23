@@ -1,7 +1,13 @@
 # Natural Language Processing on Online Reviews Data - BigView Idea
 
-Story: Online rating can not tell the whole story of how a product is doing. Let's find some visual help with Text Analytics
+#### Goal: Simplifying Daily life decisions by getting insights from online reviews faster.
 
+BackStory: Shopping online is part of our daily life and looking at online reviews to make a decision to buy that product or not is always overwhemling. That's why we came up with this Idea, whether you want to read Google Reviews before going to a Restaurant or choosing a product online on Amazon.com based on it's reviews. Online rating can not tell the whole story of how a product is doing. 
+
+
+Our Approach: We are using NLP library to work with reviews data. 
+
+Data: Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
 ### The Cheesecake Fatory Reviews Visualizations - 2018 Review Dataset
 <p align="center">
   <img src="https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png?raw=true" width="350" title="logo">
