@@ -1,6 +1,6 @@
 # Natural Language Processing on Online Reviews Data - BigView Idea
 
-#### Goal: Simplifying Daily life decisions by getting insights from online reviews faster.
+#### Goal: Simplifying Daily life buying decisions by getting insights from online reviews faster.
 
 
 ### [The Cheesecake Fatory Reviews](https://www.yelp.com/biz/the-cheesecake-factory-charlotte?osq=Restaurants+Cheese+Cake+Factory)
