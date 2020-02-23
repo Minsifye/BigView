@@ -4,7 +4,7 @@ Story: Online rating can not tell the whole story of how a product is doing. Let
 
 ### The Cheesecake Fatory Reviews Visualizations - 2018 Review Dataset
 <p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png" width="350" title="logo">
+  <img src="https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png?raw=true" width="350" title="logo">
 </p>
 
 
