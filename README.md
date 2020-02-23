@@ -2,14 +2,24 @@
 
 ### Online rating can not tell the whole story of how a product is doing. Let's find some visual help with Text Analytics
 
-### The Cheesecake Fatory Reviews Visualizations ![alt text](https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png)
+### The Cheesecake Fatory Reviews Visualizations 
+<p align="center">
+  <img src="https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png" width="350" title="logo">
+</p>
 
 
+## Positive and Negative Reviews Word Cloud: 
 
-## Positive Reviews Word Cloud: ![alt text](https://github.com/Minsifye/BigView/blob/master/pos_cloud.png)
+<p align="center">
+  <img src="https://github.com/Minsifye/BigView/blob/master/pos_cloud.png" width="500" title="pos">
+  <img src="https://github.com/Minsifye/BigView/blob/master/neg_cloud.png" width="500" title="neg">
+</p>
 
-## Negative Reviews Word Cloud: ![alt text](https://github.com/Minsifye/BigView/blob/master/neg_cloud.png)
 
-## Frequent Positive Terms: ![alt text](https://github.com/Minsifye/BigView/blob/master/plot1.png) 
-## Frequent Negative Terms: ![alt text](https://github.com/Minsifye/BigView/blob/master/plot2.png) 
+## Frequent and Negative Positive Terms: 
+<p align="center">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot1.png" width="350" title="Frequent Positive Terms">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot2.png" width="350" alt="Frequent Negative Terms">
+</p>
+
 ## Ratings Timeline : ![alt text](https://github.com/Minsifye/BigView/blob/master/plot3.png) 
