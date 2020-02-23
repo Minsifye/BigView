@@ -1,5 +1,8 @@
-# Don't Read the Reviews - See them with BigView 
-## Making Buying Decisions Faster - The Cheesecake Fatory Reviews 
+# Natural Language Processing on Online Reviews Data - BigView Idea
+
+### Online rating can not tell the whole story of how a product is doing. Let's find some visual help with Text Analytics
+
+### The Cheesecake Fatory Reviews Visualizations ![alt text](https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png)
 
 
 
