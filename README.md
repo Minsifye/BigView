@@ -8,7 +8,7 @@ Story: Online rating can not tell the whole story of how a product is doing. Let
 </p>
 
 
-## Positive Reviews Word Cloud: 
+## Positive Reviews Word Cloud: ![alt text](https://github.com/Minsifye/BigView/blob/master/pos_cloud.png)
 
 <p align="center">
   <img src="https://github.com/Minsifye/BigView/blob/master/pos_cloud.png" width="700" title="pos">
