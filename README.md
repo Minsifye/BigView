@@ -8,7 +8,8 @@ BackStory: Shopping online is part of our daily life and looking at online revie
 Our Approach: We are using NLP library to work with reviews data. 
 
 Data: Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
-### The Cheesecake Fatory Reviews Visualizations - 2018 Review Dataset
+### [The Cheesecake Fatory Reviews](https://www.yelp.com/biz/the-cheesecake-factory-charlotte?osq=Restaurants+Cheese+Cake+Factory)
+
 <p align="center">
   <img src="https://github.com/Minsifye/BigView/blob/master/cheesecake-factory-logo.png?raw=true" width="350" title="logo">
 </p>
