@@ -8,19 +8,26 @@ Story: Online rating can not tell the whole story of how a product is doing. Let
 </p>
 
 
-## Positive Reviews Word Cloud: ![ScreenShot](https://github.com/Minsifye/BigView/blob/master/pos_cloud.png)
+## Positive Reviews Word Cloud: 
+<p align="center">
+  <img src="https://github.com/Minsifye/BigView/blob/master/pos_cloud.png?raw=true" width="700" title="logo">
+</p>
 
 
 ## Negative Reviews Word Cloud: 
 
 <p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/neg_cloud.png" width="700" title="neg">
+  <img src="https://github.com/Minsifye/BigView/blob/master/neg_cloud.png?raw=true" width="700" title="neg">
 </p>
 
 ## Frequent and Negative Positive Terms: 
 <p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/plot1.png" width="450" title="Frequent Positive Terms">
-  <img src="https://github.com/Minsifye/BigView/blob/master/plot2.png" width="450" alt="Frequent Negative Terms">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot1.png?raw=true" width="450" title="Frequent Positive Terms">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot2.png?raw=true" width="450" alt="Frequent Negative Terms">
 </p>
 
-## Ratings Timeline : ![alt text](https://github.com/Minsifye/BigView/blob/master/plot3.png) 
+## Ratings Timeline :
+
+<p align="center">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot3.png?raw=true" width="600" title="neg">
+</p>
