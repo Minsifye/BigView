@@ -45,6 +45,11 @@ We are implementing this idea on "Cheesecake Factory" yelp reviews. Number of re
 2. Text Cleaning, Normalization, Tokenization, Stopword removal, Bag of Words etc.
 3. Generating Word Clouds on textual reviews, Barplots on Bag of Words and overall timeline of average ratings.
 
+### Challenges : 
+1. Getting real reviews data. Picking a sample dataset with enough reviews from huge yelp dataset.
+2. Cleaning and transforming text using NLP. 
+3. Creating a front-end to bring insights from text.
+
 Technical Points: 
 We are using NLP library to bring insights from Textual reviews data. Python as backbone coding language, pandas for data cleaning and transforming. WordCloud library to generate wordclouds. Matplotlib and Seaborn for data visualizations.
 
@@ -54,10 +59,7 @@ Implementing Sentiment Analysis to show "how happy customers are?"
 Tips:
 This Idea can be used for any website who has reviews/ratings system.
 
-### Challenges : 
-1. Getting real reviews data. Picking a sample dataset with enough reviews from huge yelp dataset.
-2. Cleaning and transforming text using NLP. 
-3. Creating a front-end to bring insights from text.
+
 
 Data: 
 Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
