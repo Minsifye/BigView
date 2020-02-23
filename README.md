@@ -8,25 +8,22 @@ Story: Online rating can not tell the whole story of how a product is doing. Let
 </p>
 
 
-## Positive Reviews Word Cloud: 
+## Positive Reviews WordCloud and Most Frequently used Positive Terms: 
 <p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/pos_cloud.png?raw=true" width="700" title="logo">
+  <img src="https://github.com/Minsifye/BigView/blob/master/pos_cloud.png?raw=true" width="600" title="logo">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot1.png?raw=true" width="600" title="Frequent Positive Terms">
 </p>
 
 
-## Negative Reviews Word Cloud: 
+## Negative Reviews WordCloud and Most Frequently used Critical Terms: 
 
 <p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/neg_cloud.png?raw=true" width="700" title="neg">
+  <img src="https://github.com/Minsifye/BigView/blob/master/neg_cloud.png?raw=true" width="600" title="neg">
+  <img src="https://github.com/Minsifye/BigView/blob/master/plot2.png?raw=true" width="600" alt="Frequent Negative Terms">
 </p>
 
-## Frequent and Negative Positive Terms: 
-<p align="center">
-  <img src="https://github.com/Minsifye/BigView/blob/master/plot1.png?raw=true" width="450" title="Frequent Positive Terms">
-  <img src="https://github.com/Minsifye/BigView/blob/master/plot2.png?raw=true" width="450" alt="Frequent Negative Terms">
-</p>
 
-## Ratings Timeline :
+## Average Overall Ratings - Timeline :
 
 <p align="center">
   <img src="https://github.com/Minsifye/BigView/blob/master/plot3.png?raw=true" width="600" title="neg">
