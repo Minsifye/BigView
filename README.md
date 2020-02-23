@@ -39,26 +39,23 @@ Example: You are in a mood to eat Butter Chicken from an Indian Restaurant but t
 ### BackStory: 
 Shopping online is part of our daily life and looking at online reviews to make a decision to buy that product or not is always overwhemling. That's why we came up with an Idea to bring insights from textual data. Whether you want to read Google Reviews before going to a Restaurant or choosing a product online on Amazon.com, reading reviews either make our mind or change it. But most of the time online ratings can not tell the whole story of "how a product is doing". 
 Adding a new functionality called BigView where a user would be able to see insights from reviews and make a decision faster rather than going through hundreds of reviews.
-
-
 ### Solution: 
 We are implementing this idea on "Cheesecake Factory" yelp reviews. Number of reviews are 465 and you can see the output of our implementation in python code. 
 1. Fetch only cheesecake reviews from huge yelp dataset. Performing data cleaning and transforming data using pandas. 
 2. Text Cleaning, Normalization, Tokenization, Stopword removal, Bag of Words etc.
 3. Generating Word Clouds on textual reviews, Barplots on Bag of Words and overall timeline of average ratings.
 
-### Technical Points: 
+Technical Points: 
 We are using NLP library to bring insights from Textual reviews data. Python as backbone coding language, pandas for data cleaning and transforming. WordCloud library to generate wordclouds. Matplotlib and Seaborn for data visualizations.
 
-### Future Work:
+Future Work:
 Implementing Sentiment Analysis to show "how happy customers are?"
 
-
-### Tips:
-
+Tips:
 This Idea can be used for any website who has reviews/ratings system.
 
 
-Data: Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
+Data: 
+Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
 
 
