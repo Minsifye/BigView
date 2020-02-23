@@ -54,6 +54,10 @@ Implementing Sentiment Analysis to show "how happy customers are?"
 Tips:
 This Idea can be used for any website who has reviews/ratings system.
 
+### Challenges : 
+1. Getting real reviews data. Picking a sample dataset with enough reviews from huge yelp dataset.
+2. Cleaning and transforming text using NLP. 
+3. Creating a front-end to bring insights from text.
 
 Data: 
 Yelp 2018 Dataset from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset)
