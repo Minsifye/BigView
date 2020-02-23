@@ -1,5 +1,7 @@
-# BigView
-Pearl Hack Project
+# Don't Read the Reviews - See them with BigView 
+## Making Buying Decisions Faster - The Cheesecake Fatory Reviews 
+
+
 
 ## Positive Reviews Word Cloud: ![alt text](https://github.com/Minsifye/BigView/blob/master/pos_cloud.png)
 
